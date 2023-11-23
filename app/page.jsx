@@ -1,9 +1,9 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+import PopUpAula from './components/PopUpAula/page'
+import Page from './teste/page'
 
 export default function Home() {
   return (
-    
-  
+    <Page></Page>
+
   )
 }
